@@ -32,3 +32,9 @@ main h1, main .hero h1, main .public-intro h1, main .engagement-intro h1{
 @media(max-width:640px){
   main h1, main .hero h1, main .public-intro h1, main .engagement-intro h1{font-size:47px;letter-spacing:-1.5px}
 }
+
+.home-header nav{margin-left:auto}
+@media(max-width:850px){.home-header nav{margin-left:0}}
+
+.home-header nav{min-height:34.5px;align-items:center}
+@media(max-width:850px){.home-header nav{min-height:0}}
