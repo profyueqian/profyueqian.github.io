@@ -2,7 +2,7 @@
 
 Private draft; GitHub Pages is not enabled. No build tools or dependencies are needed.
 
-Open `index.html` in a browser to preview. The website has six pages: Home, Research, Publications, Book, Public Sociology, and About.
+Open `index.html` in a browser to preview. The main navigation has five pages: Home, Research, Publications, Public Engagement, and About. Public Engagement combines the book with the expandable archive. The earlier book.html remains available for compatibility.
 
 ## Editing
 
@@ -10,7 +10,7 @@ Open `index.html` in a browser to preview. The website has six pages: Home, Rese
 - Replace `portrait.jpg` with the original high-resolution portrait.
 - Replace `cv.pdf` with a current CV. The current version is July 2024.
 - Change colors and spacing in `style.css`.
-- Update navigation/footer consistently across all six HTML files.
+- Update navigation/footer consistently across all HTML files.
 - `content.json` records the selected publications used during creation; it is not loaded by the website.
 
 Affiliation is CUHK, as requested. A specific CUHK title and current professional email were not supplied, so neither was guessed.
