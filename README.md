@@ -2,7 +2,7 @@
 
 Private draft; GitHub Pages is not enabled. No build tools or dependencies are needed.
 
-Open `index.html` in a browser to preview. The main navigation has five pages: Home, Research, Publications, Public Engagement, and About. Public Engagement combines the book with the expandable archive. The earlier book.html remains available for compatibility.
+Open `index.html` in a browser to preview. The main navigation has six pages: Home, Research, Publications, Public Engagement, Teaching, and About. Public Engagement combines the book with the expandable archive. The earlier book.html remains available for compatibility.
 
 ## Editing
 
@@ -24,3 +24,5 @@ Only enable hosting after approval. A private repository does not, by itself, gu
 ## Public Sociology
 
 Restored from the original Weebly editor on 8 October 2026. A concise introduction leads into 11 expandable archive categories. Original archive text and attribution are retained; archive links have not all been checked for continued availability. Tracking and access-token parameters were removed. Two Weebly document placeholders are preserved as unlinked text rather than broken links.
+
+Data & Codes is integrated into Research; Facts in Graphs is integrated into Public Engagement. Teaching has a dedicated page with mentoring and learning resources. Original Weebly resource links are retained; internal Weebly file placeholders are shown as unlinked text pending usable file URLs. Figures and citation images are stored locally.
