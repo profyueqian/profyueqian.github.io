@@ -13,7 +13,7 @@ Open `index.html` in a browser to preview. The main navigation has four pages: H
 - Update navigation/footer consistently across all HTML files.
 - `content.json` records the selected publications used during creation; it is not loaded by the website.
 
-Affiliation is CUHK, as requested. A specific CUHK title and current professional email were not supplied, so neither was guessed.
+Affiliation is CUHK, as requested. The user confirmed the title Professor of Sociology at CUHK and promotion to Full Professor at UBC in 2025. A current professional email was not supplied.
 
 Publication selections are based on the user's Google Scholar profile and Weebly site. Entries without a verified article URL link to Google Scholar. This is a curated selection, not a complete bibliography.
 
