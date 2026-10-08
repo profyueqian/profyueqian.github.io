@@ -18,7 +18,7 @@
 
 .theme-papers{grid-column:2 / -1;border-top:0!important;border-bottom:0!important}.theme-papers summary{padding:4px 0;font-size:14px;color:var(--accent)}.theme-papers .archive-content{max-width:none;padding-top:20px}.theme-papers .paper h3{font-size:21px}.theme-papers .paper{padding:20px 0}.theme-papers .paper:first-child{padding-top:0}@media(max-width:600px){.theme-papers{grid-column:2}.theme-papers .paper h3{font-size:19px}}
 
-.record-intro{max-width:850px;font-size:14px;color:var(--muted);margin:0 0 35px;line-height:1.7}.publication-kind{font-size:11px!important;color:var(--accent);margin-top:7px}.related-heading{font-size:22px;margin:35px 0 20px;padding-top:25px;border-top:1px solid var(--line)}
+.record-intro{max-width:850px;font-size:14px;color:var(--muted);margin:0 0 20px;line-height:1.7}.publication-kind{font-size:11px!important;color:var(--accent);margin-top:7px}.related-heading{font-size:22px;margin:35px 0 20px;padding-top:25px;border-top:1px solid var(--line)}
 
 /* Shared main title typography across every page. */
 main h1, main .hero h1, main .public-intro h1, main .engagement-intro h1{
