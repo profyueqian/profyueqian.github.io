@@ -26,3 +26,7 @@ Only enable hosting after approval. A private repository does not, by itself, gu
 Restored from the original Weebly editor on 8 October 2026. A concise introduction leads into 11 expandable archive categories. Original archive text and attribution are retained; archive links have not all been checked for continued availability. Tracking and access-token parameters were removed. Two Weebly document placeholders are preserved as unlinked text rather than broken links.
 
 Data & Codes is integrated into Research; Facts in Graphs is integrated into Public Engagement. Teaching has a dedicated page with mentoring and learning resources. Original Weebly resource links are retained; internal Weebly file placeholders are shown as unlinked text pending usable file URLs. Figures and citation images are stored locally.
+
+## Publication record
+
+Expanded on 8 October 2026 using all 110 Google Scholar profile entries, individual citation records, the July 2024 CV, and Weebly links. The website contains 99 distinct scholarly records under four primary themes, including labeled chapters/reprints, reports, dissertations, and working papers. Duplicate entries and indexing fragments are excluded. The CV resolves print years for older articles. Public writing and the standalone book remain under Public Engagement. publication-record.json stores the editable bibliography. This record reflects the available sources; a newer CV may contain accepted work not yet indexed.
