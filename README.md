@@ -2,7 +2,7 @@
 
 Private draft; GitHub Pages is not enabled. No build tools or dependencies are needed.
 
-Open `index.html` in a browser to preview. The main navigation has six pages: Home, Research, Publications, Public Engagement, Teaching, and About. Public Engagement combines the book with the expandable archive. The earlier book.html remains available for compatibility.
+Open `index.html` in a browser to preview. The main navigation has five pages: Home, Research, Publications, Public Engagement, and Teaching. Home combines the introduction and biography; about.html redirects to Home. Public Engagement combines the book with the expandable archive. The earlier book.html remains available for compatibility.
 
 ## Editing
 

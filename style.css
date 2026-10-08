@@ -9,3 +9,5 @@
 .book-coverage{margin-top:28px;padding-top:20px;border-top:1px solid #deded8}.book-coverage h3{font-family:inherit;font-size:14px;letter-spacing:.05em;margin:0 0 10px}.book-coverage p{font-size:14px;line-height:2;margin:0}.book-coverage a{text-underline-offset:4px}
 
 .resource-entry{padding:18px 0;border-bottom:1px solid var(--line)}.resource-entry:last-child{border-bottom:0}.citation-image{display:block;width:100%;max-width:760px;height:auto;margin-bottom:18px}.research-figure{margin:24px 0}.research-figure img{display:block;max-width:100%;height:auto;max-height:740px;object-fit:contain;background:white}.research-figure figcaption{font-size:12px;line-height:1.6;margin-top:12px;color:var(--muted)}.resource-note{margin-top:28px;font-size:14px}
+
+.landing-bio{max-width:640px;margin:26px 0}.landing-bio p{font-size:17px;line-height:1.75;margin:0 0 18px}.landing-bio .personal{font-size:15px;color:var(--muted)}
