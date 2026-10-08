@@ -17,7 +17,7 @@
     "year": 2021,
     "venue": "Sociology compass 15 (6), e12881",
     "url": "https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/soc4.12881",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -28,7 +28,7 @@
     "year": 2020,
     "venue": "Canadian public policy 46 (S2), S89-S101",
     "url": "https://utppublishing.com/doi/abs/10.3138/cpp.2020-077",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -44,7 +44,7 @@
     "year": 2020,
     "venue": "Research in Social Stratification and Mobility 68, 100522",
     "url": "https://www.sciencedirect.com/science/article/pii/S0276562420300585",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -71,7 +71,7 @@
     "year": 2017,
     "venue": "Journal of Marriage and Family 79 (2), 318-336",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12372",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -82,7 +82,7 @@
     "year": 2014,
     "venue": "Demographic Research 31, 1337-1364",
     "url": "https://www.jstor.org/stable/26350099",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -114,7 +114,7 @@
     "year": 2019,
     "venue": "American Sociological Review 84 (1), 54-81",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0003122418820702",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -125,7 +125,7 @@
     "year": 2021,
     "venue": "Gender & society 35 (2), 206-217",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/08912432211001287",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -136,7 +136,7 @@
     "year": 2018,
     "venue": "Chinese Sociological Review 50 (3), 275-309",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/21620555.2018.1428895",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -169,7 +169,7 @@
     "year": 2020,
     "venue": "China Review 20 (2), 19-51",
     "url": "https://muse.jhu.edu/pub/250/article/757486/summary",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -180,7 +180,7 @@
     "year": 2024,
     "venue": "Journal of Marriage and Family 86 (5), 1160-1183",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12983",
-    "theme": 3,
+    "theme": 2,
     "kind": "Journal article",
     "resources": [
       [
@@ -218,7 +218,7 @@
     "year": 2017,
     "venue": "Chinese Sociological Review 49 (3), 239-262",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/21620555.2017.1288066",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -261,7 +261,7 @@
     "year": 2021,
     "venue": "Gender, Work & Organization 28, 535-553",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gwao.12661",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -288,7 +288,7 @@
     "year": 2023,
     "venue": "Journal of Family Theory & Review 15 (3), 526-541",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jftr.12507",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -320,7 +320,7 @@
     "year": 2019,
     "venue": "Demographic Research 41, 53-82",
     "url": "https://www.jstor.org/stable/26850643",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -340,7 +340,7 @@
     "year": 2016,
     "venue": "The Sociological Quarterly 57 (4), 733-758",
     "url": "https://www.tandfonline.com/doi/abs/10.1111/tsq.12152",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -351,7 +351,7 @@
     "year": 2020,
     "venue": "Journal of Ethnic and Migration Studies 46 (14), 2880-2895",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1585006",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -362,7 +362,7 @@
     "year": 2020,
     "venue": "Chinese journal of sociology 6 (4), 521-546",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/2057150X20957422",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -378,7 +378,7 @@
     "year": 2020,
     "venue": "Journal of Ethnic and Migration Studies 46 (18), 3920-3936",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/1369183X.2019.1592883",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -389,7 +389,7 @@
     "year": 2023,
     "venue": "Social Forces 102 (2), 609-632",
     "url": "https://academic.oup.com/sf/article-abstract/102/2/609/7159229",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -427,7 +427,7 @@
     "year": 2021,
     "venue": "Social Forces 100 (2), 564-598",
     "url": "https://academic.oup.com/sf/article-abstract/100/2/564/6103179",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -438,7 +438,7 @@
     "year": 2018,
     "venue": "Journal of Marriage and Family 80 (3), 607-621",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12470",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -460,7 +460,7 @@
     "year": 2024,
     "venue": "Community, Work & Family 27 (5), 588-611",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/13668803.2024.2373852",
-    "theme": 3,
+    "theme": 2,
     "kind": "Journal article",
     "resources": [
       [
@@ -492,7 +492,7 @@
     "year": 2022,
     "venue": "Studies in family planning 53 (1), 23-42",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/sifp.12185",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -508,7 +508,7 @@
     "year": 2018,
     "venue": "Research in social stratification and mobility 56, 12-20",
     "url": "https://www.sciencedirect.com/science/article/pii/S0276562417301191",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -541,7 +541,7 @@
     "year": 2020,
     "venue": "Studies in Family Planning 51 (3), 273-291",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/sifp.12135",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -552,7 +552,7 @@
     "year": 2022,
     "venue": "Social Forces 100 (4), 1642-1670",
     "url": "https://academic.oup.com/sf/article-abstract/100/4/1642/6319641",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -563,7 +563,7 @@
     "year": 2020,
     "venue": "Contexts 19 (1), 12-17",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/1536504220902196",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -601,7 +601,7 @@
     "year": 2018,
     "venue": "Journal of Family and Economic Issues 39 (4), 551-565",
     "url": "https://link.springer.com/article/10.1007/s10834-018-9579-2",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -612,7 +612,7 @@
     "year": 2024,
     "venue": "Journal of Family Issues 45 (5), 1087-1115",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0192513X231155603",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -644,7 +644,7 @@
     "year": 2022,
     "venue": "Internet Research 32 (4), 1264-1287",
     "url": "https://www.emerald.com/intr/article/32/4/1264/176219",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -655,7 +655,7 @@
     "year": 2025,
     "venue": "Journal of Marriage and Family 87 (1), 392-407",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12967",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -671,7 +671,7 @@
     "year": 2024,
     "venue": "The Social Science Journal 61 (4), 755-772",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/03623319.2020.1851560",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -693,7 +693,7 @@
     "year": 2026,
     "venue": "Information, Communication & Society 29 (10), 3097-3115",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/1369118X.2025.2592771",
-    "theme": 3,
+    "theme": 2,
     "kind": "Journal article",
     "resources": [
       [
@@ -709,7 +709,7 @@
     "year": 2023,
     "venue": "Canadian Review of Sociology/Revue canadienne de sociologie 60 (1), 130-153",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cars.12414",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -725,7 +725,7 @@
     "year": 2023,
     "venue": "Journal of Marriage and Family 85 (5), 1138-1152",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12927",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -741,7 +741,7 @@
     "year": 2012,
     "venue": "The Ohio State University",
     "url": "https://rave.ohiolink.edu/etdc/view?acc_num=osu1337371626",
-    "theme": 2,
+    "theme": 1,
     "kind": "Master’s thesis",
     "resources": []
   },
@@ -768,7 +768,7 @@
     "year": 2022,
     "venue": "Chinese Sociological Review 54 (3), 304-331",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/21620555.2022.2059459",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -779,7 +779,7 @@
     "year": 2017,
     "venue": "Intimate Relationships and Social Change (Contemporary Perspectives in Family Research, Vol. 11), 95–123",
     "url": "https://www.emerald.com/books/edited-volume/13408/chapter-abstract/83939500",
-    "theme": 2,
+    "theme": 1,
     "kind": "Book chapter / reprint",
     "resources": []
   },
@@ -790,7 +790,7 @@
     "year": 2026,
     "venue": "Journal of Marriage and Family 88 (2), 522-536",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.70013",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -817,7 +817,7 @@
     "year": 2016,
     "venue": "The Ohio State University",
     "url": "https://rave.ohiolink.edu/etdc/view?acc_num=osu1460461118",
-    "theme": 2,
+    "theme": 1,
     "kind": "Doctoral dissertation",
     "resources": []
   },
@@ -828,7 +828,7 @@
     "year": 2022,
     "venue": "Socius 8, 23780231221132383",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/23780231221132383",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -848,7 +848,7 @@
     "year": 2026,
     "venue": "Gender, Work & Organization 33 (1), 181-201",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gwao.70027",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": [
       [
@@ -864,7 +864,7 @@
     "year": 2025,
     "venue": "Journal of Social and Personal Relationships 42 (8), 2167-2187",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/02654075251339257",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -880,7 +880,7 @@
     "year": 2023,
     "venue": "Demographic Research 48, 483-512",
     "url": "https://www.jstor.org/stable/48728213",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -891,7 +891,7 @@
     "year": 2022,
     "venue": "Canadian Ethnic Studies 54 (3), 63-108",
     "url": "https://muse.jhu.edu/pub/78/article/882881/summary",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -902,7 +902,7 @@
     "year": 2022,
     "venue": "Population, Space and Place 28(4), e2524",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/psp.2524",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -929,7 +929,7 @@
     "year": 2020,
     "venue": "Globe & Mail (Toronto, Canada), A11-A11",
     "url": "https://go.gale.com/ps/i.do?id=GALE%7CA629051938&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=03190714&p=HRCA&sw=w",
-    "theme": 1,
+    "theme": 3,
     "kind": "Op-ed",
     "resources": []
   },
@@ -940,7 +940,7 @@
     "year": 2022,
     "venue": "Marriage & Family Review 58 (7), 647-673",
     "url": "https://www.tandfonline.com/doi/abs/10.1080/01494929.2021.2006389",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -1086,7 +1086,7 @@
     "year": 2025,
     "venue": "Demography 62 (4), 1203-1216",
     "url": "https://read.dukeupress.edu/demography/article-abstract/62/4/1203/401985",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -1097,7 +1097,7 @@
     "year": 2025,
     "venue": "Sociological Science 12, 51-75",
     "url": "https://sociologicalscience.com/articles-v12-3-51/",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": [
       [
@@ -1124,7 +1124,7 @@
     "year": 2026,
     "venue": "Work and Occupations, 07308884261476223",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/07308884261476223",
-    "theme": 1,
+    "theme": 3,
     "kind": "Journal article",
     "resources": []
   },
@@ -1135,7 +1135,7 @@
     "year": 2026,
     "venue": "人口研究 [Population Research] 50 (4), 41-55",
     "url": "https://discovery.ucl.ac.uk/id/eprint/10229500/",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -1168,7 +1168,7 @@
     "year": 2026,
     "venue": "European Sociological Review, jcag002",
     "url": "https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcag002/8469544",
-    "theme": 3,
+    "theme": 2,
     "kind": "Journal article",
     "resources": [
       [
@@ -1184,7 +1184,7 @@
     "year": 2026,
     "venue": "Demographic Research",
     "url": "https://discovery.ucl.ac.uk/id/eprint/10230443/",
-    "theme": 2,
+    "theme": 1,
     "kind": "Journal article",
     "resources": []
   },
@@ -1195,7 +1195,7 @@
     "year": 2026,
     "venue": "Chinese Journal of Sociology, 2057150X261468815",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/2057150X261468815",
-    "theme": 2,
+    "theme": 1,
     "kind": "Editorial",
     "resources": []
   },
@@ -1217,7 +1217,7 @@
     "year": 2024,
     "venue": "Fertility and Childcare in East Asia: Gender Dynamics and Intergenerational …",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iR2fdtQAAAAJ&cstart=20&pagesize=80&citation_for_view=iR2fdtQAAAAJ:fQNAKQ3IYiAC",
-    "theme": 2,
+    "theme": 1,
     "kind": "Book chapter / reprint",
     "resources": []
   },
@@ -1228,7 +1228,7 @@
     "year": 2023,
     "venue": "OSF",
     "url": "https://osf.io/preprints/socarxiv/py8bj",
-    "theme": 1,
+    "theme": 3,
     "kind": "Working paper",
     "resources": []
   },
@@ -1239,7 +1239,7 @@
     "year": 2022,
     "venue": "Working in America: Continuity, Conflict, and Change in a New Economic Era",
     "url": "https://books.google.com/books?hl=en&lr=&id=bQCeEAAAQBAJ&oi=fnd&pg=PT394&dq=info:Hm6tQd53QvgJ:scholar.google.com&ots=FdYcvo-mJ4&sig=fXEcwiw2SjvlQova9RufEAGmMas",
-    "theme": 1,
+    "theme": 3,
     "kind": "Book chapter / reprint",
     "resources": []
   },
@@ -1277,7 +1277,7 @@
     "year": 2020,
     "venue": "Journal of Chinese Women’s Studies 160, 21–22 (in Chinese)",
     "url": "",
-    "theme": 2,
+    "theme": 1,
     "kind": "Commentary",
     "resources": []
   }
