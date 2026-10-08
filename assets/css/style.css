@@ -19,3 +19,7 @@
 .theme-papers{grid-column:2 / -1;border-top:0!important;border-bottom:0!important}.theme-papers summary{padding:4px 0;font-size:14px;color:var(--accent)}.theme-papers .archive-content{max-width:none;padding-top:20px}.theme-papers .paper h3{font-size:21px}.theme-papers .paper{padding:20px 0}.theme-papers .paper:first-child{padding-top:0}@media(max-width:600px){.theme-papers{grid-column:2}.theme-papers .paper h3{font-size:19px}}
 
 .record-intro{max-width:850px;font-size:14px;color:var(--muted);margin:0 0 35px;line-height:1.7}.publication-kind{font-size:11px!important;color:var(--accent);margin-top:7px}.related-heading{font-size:22px;margin:35px 0 20px;padding-top:25px;border-top:1px solid var(--line)}
+
+/* Match homepage name to the main titles on other pages. */
+.hero h1{font-size:clamp(46px,5.6vw,78px);margin:14px 0 25px}
+@media(max-width:640px){.hero h1{font-size:47px;letter-spacing:-1.5px}}
