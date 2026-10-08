@@ -23,4 +23,4 @@ Only enable hosting after approval. A private repository does not, by itself, gu
 
 ## Public Sociology
 
-Restored from the original Weebly editor on 8 October 2026. Highlights lead into 11 expandable archive categories. Original archive text and attribution are retained; archive links have not all been checked for continued availability. Tracking and access-token parameters were removed. Two Weebly document placeholders are preserved as unlinked text rather than broken links.
+Restored from the original Weebly editor on 8 October 2026. A concise introduction leads into 11 expandable archive categories. Original archive text and attribution are retained; archive links have not all been checked for continued availability. Tracking and access-token parameters were removed. Two Weebly document placeholders are preserved as unlinked text rather than broken links.
