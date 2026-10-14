@@ -1,4 +1,4 @@
-# Yue Qian — academic website
+# Yue Qian — personal website
 
 Private website draft. Hosting has not been enabled.
 
