@@ -17,7 +17,6 @@ Open `index.html` in a browser to preview. No build tools or dependencies are re
 - `assets/images/profile/` — portrait and public-talk photo
 - `assets/images/book/` — book cover
 - `assets/images/graphs/` — research charts
-- `assets/images/citations/` — images used by research resources
 - `assets/documents/` — CV and linked PDF articles
 
 Edit text directly in the relevant HTML page. Keep asset filenames unchanged when replacing files. Update navigation consistently across all four pages.
